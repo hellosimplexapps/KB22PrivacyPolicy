@@ -26,15 +26,17 @@ Cookies
 Cookies are small files stored on your device (computer or mobile device).
 
 Information Collection and Use
-We do not collect any sort of usage information from our users. 
+We do not collect any sort of usage information from our users in the form of usage data or cookies.
 
 Children's Privacy
+
 We do not collect any sort of usage information from our users. 
 Our Service does not address anyone under the age of 18 ("Children").
 
-We do not knowingly collect personally identifiable information from anyone
+We do not knowingly collect personally identifiable information from anyone.
 
 Changes to This Privacy Policy
+
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
@@ -42,6 +44,7 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 Contact Us
+
 If you have any questions about this Privacy Policy, please contact us:
 
 By email: hellosimplexapps@gmail.com
